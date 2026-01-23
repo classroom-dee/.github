@@ -19,7 +19,6 @@ so I can rise from squalor and... foster my scholar?
 |------|-------------|------|
 | [Catch Me My Capital](https://github.com/classroom-dee/catch-me-my-capital) | ETL pipeline project | Airflow, AWS, Spark |
 | [Mini apps](https://github.com/classroom-dee/miniapps) | A collection of unbuilt miscellaneous micro utility apps | Python, Javascript |
-| [Mock SLO Pipeline](https://github.com/classroom-dee/ugh-timization) | A pipeline based on mock SLO backed by fake data | Python, Kafka GKE |
 | [Mini Pipeline](https://github.com/classroom-dee/friggin_dags) | Small demonstration of using dbt inside Airflow workflow | dbt, Airflow |
 | [Double Shot](https://github.com/classroom-dee/DoubleShot) | Voice + vision assisted ordering app | Spring |
 | [With Tayo](https://github.com/classroom-dee/withtayo) | Public transit reservation app for the disadvantaged | Spring |
