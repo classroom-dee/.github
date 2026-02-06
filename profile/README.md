@@ -9,16 +9,20 @@ so I can rise from squalor and... foster my scholar?
 
 ### 🔖 Index
 
-- [🚀 Projects](#-projects)
-- [🔬 Assignments](#-assignments)
-- [📚 Learning Materials](#-learning-materials)
+- [🌐 Dee's classroom](#-dees-classroom)
+  - [🔖 Index](#-index)
+  - [🔬 Projects](#-projects)
+  - [🚀 Assignments](#-assignments)
+  - [📚 Learning Materials](#-learning-materials)
+  - [🤝 Contributing](#-contributing)
+  - [🧭 About](#-about)
 
 ### 🔬 Projects
 
 | Name | Description | Tech |
 |------|-------------|------|
 | [Catch Me My Capital](https://github.com/classroom-dee/catch-me-my-capital) | ETL pipeline project | Airflow, AWS, Spark |
-| [Mini apps](https://github.com/classroom-dee/miniapps) | A collection of unbuilt miscellaneous micro utility apps | Python, Javascript |
+| [Mini apps](https://github.com/classroom-dee/miniapps) | A collection of miscellaneous micro utility apps | Python, JS, etc |
 | [Mini Pipeline](https://github.com/classroom-dee/friggin_dags) | Small demonstration of using dbt inside Airflow workflow | dbt, Airflow |
 | [Double Shot](https://github.com/classroom-dee/DoubleShot) | Voice + vision assisted ordering app | Spring |
 | [With Tayo](https://github.com/classroom-dee/withtayo) | Public transit reservation app for the disadvantaged | Spring |
@@ -29,8 +33,9 @@ so I can rise from squalor and... foster my scholar?
 |------|-------------|------|
 | [DevOps With Kubernetes](https://github.com/classroom-dee/hobbernetes) | DevOps exercises, assignments | GKE, ArgoCD |
 | [Assignment Config Repo](https://github.com/classroom-dee/simple-http-ops) | Configs for the above project | GKE, ArgoCD |
-| [Full Stack Open React Native](https://github.com/classroom-dee/rn) | React Native assignments | React Native(Expo), Node |
 | [Full Stack Open](https://github.com/classroom-dee/fsopen) | React + Express assignments | React(Vite), Typescript, Node |
+| [Full Stack Open React Native](https://github.com/classroom-dee/rn) | React Native assignments | React Native(Expo), Node, GQL |
+| [Full Stack Open CI/CD](https://github.com/classroom-dee/full-stack-open-pokedex) | course material and assignments | Github Actions, React |
 
 ### 📚 Learning Materials
 
@@ -38,8 +43,9 @@ so I can rise from squalor and... foster my scholar?
 |------|-------------|-------|
 | [Forked material](https://github.com/classroom-dee/dwk-app1) | Class material fork | ... |
 | [Coding Problems 1](https://github.com/classroom-dee/codingProblems) | Solved coding problems from platforms | Python, SQL |
-| [Coding Problems 2](https://github.com/classroom-dee/algo-study) | Coding problems with study group | Python, SQL |
+| [Coding Problems 2](https://github.com/classroom-dee/algo-study) | Coding problems done with a study group | Python, SQL |
 | [Postgre Study](https://github.com/classroom-dee/elephant-in-the-room) | Postgre indexing behavior study | PostgreSQL |
+| [Experiments](https://github.com/classroom-dee/experiments) | Various experiments and simulations | Python |
 
 ### 🤝 Contributing
 
