@@ -14,13 +14,12 @@ so I can rise from squalor and... foster my scholar?
   - [🔬 Projects](#-projects)
   - [🚀 Assignments](#-assignments)
   - [📚 Learning Materials](#-learning-materials)
-  - [🤝 Contributing](#-contributing)
   - [🧭 About](#-about)
 
 ### 🔬 Projects
 
-| Name | Description | Tech |
-|------|-------------|------|
+| Name | Description | Tools |
+|------|-------------|-------|
 | [Catch Me My Capital](https://github.com/classroom-dee/catch-me-my-capital) | ETL pipeline project | Airflow, AWS, Spark |
 | [Mini apps](https://github.com/classroom-dee/miniapps) | A collection of miscellaneous micro utility apps | Python, JS, etc |
 | [Mini Pipeline](https://github.com/classroom-dee/friggin_dags) | Small demonstration of using dbt inside Airflow workflow | dbt, Airflow |
@@ -29,30 +28,28 @@ so I can rise from squalor and... foster my scholar?
 
 ### 🚀 Assignments
 
-| Name | Description | Tech |
-|------|-------------|------|
+| Name | Description | Tools |
+|------|-------------|-------|
 | [DevOps With Kubernetes](https://github.com/classroom-dee/hobbernetes) | DevOps exercises, assignments | GKE, ArgoCD |
-| [Assignment Config Repo](https://github.com/classroom-dee/simple-http-ops) | Configs for the above project | GKE, ArgoCD |
-| [Full Stack Open](https://github.com/classroom-dee/fsopen) | React + Express assignments | React(Vite), Typescript, Node |
-| [Full Stack Open React Native](https://github.com/classroom-dee/rn) | React Native assignments | React Native(Expo), Node, GQL |
-| [Full Stack Open CI/CD](https://github.com/classroom-dee/full-stack-open-pokedex) | course material and assignments | Github Actions, React |
+| [DWK Config Repo](https://github.com/classroom-dee/simple-http-ops) | Configs for the above project | GKE, ArgoCD |
+| [FS Open](https://github.com/classroom-dee/fsopen) | React + Express assignments | React(Vite), Typescript, Node |
+| [FS Open React Native](https://github.com/classroom-dee/rn) | React Native assignments | React Native(Expo), Node, GQL |
+| [FS Open CI/CD](https://github.com/classroom-dee/full-stack-open-pokedex) | course material and assignments | Github Actions, React |
+| [FS Open Container](https://github.com/classroom-dee/fso-containers) | course material and assignments | Docker, Express.js |
+| [Color Ensemble](https://github.com/classroom-dee/color-ensemble) | course assignment project | Github Actions, React, Typescript |
+| [Forked material](https://github.com/classroom-dee/dwk-app1) | Class material fork | ... |
 
 ### 📚 Learning Materials
 
-| Name | Description | Notes |
+| Name | Description | Tools |
 |------|-------------|-------|
-| [Forked material](https://github.com/classroom-dee/dwk-app1) | Class material fork | ... |
 | [Coding Problems 1](https://github.com/classroom-dee/codingProblems) | Solved coding problems from platforms | Python, SQL |
 | [Coding Problems 2](https://github.com/classroom-dee/algo-study) | Coding problems done with a study group | Python, SQL |
 | [Postgre Study](https://github.com/classroom-dee/elephant-in-the-room) | Postgre indexing behavior study | PostgreSQL |
 | [Experiments](https://github.com/classroom-dee/experiments) | Various experiments and simulations | Python |
-
-### 🤝 Contributing
-
-Have an idea or want to contribute or want to learn together or just mess around?<br>
-Open a PR or issue on any active repo — contributions are welcome!
+| [Spark ETL](https://github.com/classroom-dee/java-spark-etl) | Spark ETL Exercise in Java | Java, Spark |
 
 ### 🧭 About
 
 This organization is maintained by [@boolYikes](https://github.com/boolYikes).  
-Everything here is open-sourced, for learning and collaboration.
+Everything here is open-sourced for learning.
