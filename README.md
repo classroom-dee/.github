@@ -1,3 +1,10 @@
+---
+name: Org Landing
+date: 2026-02-01
+tags: [kubernetes, gke, argocd, githubaction, docker, python, java, spring, spark, aws, dbt, airflow, rust, node, react, reactnative, gql, typescript]
+summary: An org for organizing study material and old projects
+---
+
 ## 🌐 Dee's classroom
 
 This org was created in an effort to organize learning & exercise material
