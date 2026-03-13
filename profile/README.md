@@ -1,17 +1,8 @@
-## 🌐 Dee's classroom
+# 🌐 Dee's Classroom
 
 This org was created in an effort to organize learning & exercise material
 
----
-
-### 🔖 Index
-
-- [🌐 Dee's classroom](#-dees-classroom)
-  - [🔖 Index](#-index)
-  - [🔬 Projects](#-projects)
-  - [🚀 Assignments](#-assignments)
-  - [📚 Learning Materials](#-learning-materials)
-  - [🧭 About](#-about)
+Forks with no commits and some repos are skipped here
 
 ### 🔬 Projects
 
@@ -31,10 +22,10 @@ This org was created in an effort to organize learning & exercise material
 | [DWK Config Repo](https://github.com/classroom-dee/simple-http-ops) | Configs for the above project | GKE, ArgoCD |
 | [FS Open](https://github.com/classroom-dee/fsopen) | React + Express assignments | React(Vite), Typescript, Node |
 | [FS Open React Native](https://github.com/classroom-dee/rn) | React Native assignments | React Native(Expo), Node, GQL |
-| [FS Open CI/CD](https://github.com/classroom-dee/full-stack-open-pokedex) | course material and assignments | Github Actions, React |
-| [FS Open Container](https://github.com/classroom-dee/fso-containers) | course material and assignments | Docker, Express.js |
-| [Color Ensemble](https://github.com/classroom-dee/color-ensemble) | course assignment project | Github Actions, React, Typescript |
-| [Forked material](https://github.com/classroom-dee/dwk-app1) | Class material fork | ... |
+| [FS Open CI/CD](https://github.com/classroom-dee/full-stack-open-pokedex) | Course material and assignments | Github Actions, React |
+| [FS Open Container](https://github.com/classroom-dee/fso-containers) | Course material and assignments | Docker, Express.js |
+| [Color Ensemble](https://github.com/classroom-dee/color-ensemble) | Course assignment project | Github Actions, React, Typescript |
+| [Spring Boot Demo](https://github.com/classroom-dee/spring-boot-demo) | Course assignment project | Docker, React, Typescript, Spring |
 
 ### 📚 Learning Materials
 
