@@ -42,7 +42,6 @@ Forks with no commits and some repos are skipped here
 |------|-------------|-------|
 | [Coding Problems 1](https://github.com/classroom-dee/codingProblems) | Solved coding problems from platforms | Python, SQL |
 | [Coding Problems 2](https://github.com/classroom-dee/algo-study) | Coding problems done with a study group | Python, SQL |
-| [Postgre Study](https://github.com/classroom-dee/elephant-in-the-room) | Postgre indexing behavior study | PostgreSQL |
 | [Experiments](https://github.com/classroom-dee/experiments) | Various experiments and simulations | Python |
 | [Spark ETL](https://github.com/classroom-dee/java-spark-etl) | Spark ETL Exercise in Java | Java, Spark |
 
