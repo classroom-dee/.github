@@ -9,6 +9,7 @@ Forks with no commits and some repos are skipped here
 | Name | Description | Tools |
 |------|-------------|-------|
 | [Catch Me My Capital](https://github.com/classroom-dee/catch-me-my-capital) | ETL pipeline project | Airflow, AWS, Spark |
+| [Job Trend Visualizer](https://github.com/classroom-dee/JobInsightVisualizer) | ETL pipeline project | Django, Redshift |
 | [Mini apps](https://github.com/classroom-dee/miniapps) | A collection of miscellaneous micro utility apps | Python, JS, etc |
 | [Mini Pipeline](https://github.com/classroom-dee/friggin_dags) | Small demonstration of using dbt inside Airflow workflow | dbt, Airflow |
 | [Double Shot](https://github.com/classroom-dee/DoubleShot) | Voice + vision assisted ordering app | Spring |
